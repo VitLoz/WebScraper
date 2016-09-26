@@ -1,0 +1,5 @@
+aiohttp==1.0.0
+async-timeout==1.0.0
+beautifulsoup4==4.5.1
+chardet==2.3.0
+multidict==2.0.1
